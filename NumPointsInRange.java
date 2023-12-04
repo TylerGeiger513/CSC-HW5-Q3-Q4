@@ -3,7 +3,7 @@ public class NumPointsInRange {
         int[] list1 = {1, 4, 6, 8, 10};
         int[] list2 = {1, 14, 16, 28, 100, 120};
         int[] list3 = {100, 142, 165, 384, 1000};
-
+        
         System.out.println(numPointsInRange(list1, 0, 5));
         System.out.println(numPointsInRange(list1, 6, 10));
         System.out.println(numPointsInRange(list1, 7, 100));
